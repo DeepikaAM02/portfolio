@@ -1,0 +1,74 @@
+.bak{
+    color: rgb(196, 242, 10);
+    text-align: center;
+    text-decoration:underline;
+    font-family: Segoe UI Semibold;
+    
+}
+.edu{
+    color: aliceblue;
+}
+.kr{
+    color: aliceblue;
+    display: flex;
+    padding: 10px;
+
+}
+
+.pimg{
+    color: aliceblue;
+   border-radius: 50px;
+   height: 250px;
+   width: 200px;
+   margin-left: 200px;
+   border: 2px solid white;
+}
+
+.ger{
+    color: rgb(202, 210, 212);
+    margin-top: 70;
+    font-size: 15px;
+    margin-left: 350px;
+    font-family: Segoe UI Semibold;
+    text-align: center;
+}
+.orp{
+    color: rgb(34, 86, 131);
+    font-family: Segoe UI Semibold;
+}
+.jar{
+    color: aliceblue;
+    margin-left: 130px;
+    font-family: Segoe UI Semibold;
+    margin: 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.met{
+    color: aliceblue;
+    margin-left: 130px;
+    font-family: Segoe UI Semibold;
+    margin: 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+.Cont{
+    color: aliceblue;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+
+.tb{
+    margin-bottom:10px ;
+    color: aliceblue;
+}
+.rep{
+    color: rgb(34, 86, 131);
+
+}
